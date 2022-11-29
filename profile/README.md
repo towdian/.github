@@ -1,2 +1,2 @@
 # towdian
-Why todian? [Because towdian](./because-todian.mp3)
+Why todian? [Because towdian](because-todian.mp3)
